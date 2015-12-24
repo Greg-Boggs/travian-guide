@@ -1,0 +1,18 @@
++++
+title = "Travian Multihunter"
+date = "2015-12-02"
+categories = ["Scripts"]
+menu = ""
+banner = "banners/placeholder.png"
++++
+So how does Travian multihunter work? The first thing a person learns when they contact Travian multihunter is that its EXTREMELY difficult for Travain multihunter to help you. And, that a smart person always contacts Multihunter2 as multihunter1 is always too busy. A MH needs an exact link to the game screen in question before they can see other people’s accounts. Simply giving them the account name isn’t enough. What this means for cheaters, is even people who blab about scripting and password sharing usually get away with it because MH simply doesn’t have good automated tools for detecting messages with people’s passwords in them. Simple fix: Check for the users password from the user’s table of the database before every IGM is sent. If any person on any Travian server EVER sends an IGM with their password in it, the game can ban them automatically no human interaction needed. If your going to password share, do it on Instant messenger. The fact that Travian allows you to share your password via IGM is a security failure.
+
+Also the game automatically deletes all the evidence of every game event every week. So someone cheats for the first couple of weeks and then stops, the evidence will be cleaned by the game in a very short time frame. This also bites you in the ass when someone sends you threatening messages. If you don’t report them to MH before the message deletes, Travian multihunter WILL NOT HELP YOU.
+
+The tech side of catching cheaters is fairly straight forward. Any web game has two main methods of cheat detection. Internet Protocol (IP) address, and cookie/session key. Every machine on the Internet has an IP address, when you play two accounts from the same network, like from a college dorm, your IP will match another user. Travian has a feature called pc-sharing that allows people who share the same IP to play travian. Basically, anyone with a matching IP who isn’t on the pc sharing list is on the short list for a ban. Those who cheat from college dorm rooms and other public networks often get away with it for longer. Once MH finds a matching IP they look at account activity. If the two accounts work closely together, are never online at the same second, and  seem to communicate without IGM, they are highly likely to be banned.
+
+Travian session cookies is the second method travian multihunter use to catch cheaters. Your browser records a session for you each time you log in. If you log in to someone elses account with a cookie from another account, you are automatically flagged as a cheat.  So, clear your cookies right? Wrong! A suspect cheater who always has no cookie or state information on every connection will often be scrutinized extra hard as a cheat. The most affective way to run 3 accounts is to use 1 browser for each account. That way you have nice clean sessions for each account you play. You just have to make sure you don’t forget which browser is which.
+
+Hiding your IP address is simple its called a public proxy, google will give you several website that will display hundreds of proxies. However, a proxy is slow, and seriously makes travian less fun, as you can’t split waves from a proxy server. To stop this Travian multihunter can simply blacklist all public proxies.
+
+Are you being farmed by a cheater with the auto farm script? Stay tuned for a post on autofarm. How it works, why people don’t get caught, and how to get someone caught!
