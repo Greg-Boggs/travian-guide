@@ -1,6 +1,6 @@
 +++
 title = "Alliance Founder Leaves"
-date = "2015-12-14"
+date = "2015-12-05"
 categories = ["Guides"]
 menu = ""
 banner = "banners/placeholder.png"

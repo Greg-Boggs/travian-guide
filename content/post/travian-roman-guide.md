@@ -3,7 +3,7 @@ title = "Travian Roman Guide"
 date = "2015-12-24"
 categories = ["Guides"]
 menu = ""
-banner = "banners/placeholder.png"
+banner = "banners/roman-colosseum.jpg"
 +++
 
 #Tenants of Good Travian Roman Play
