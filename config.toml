@@ -19,7 +19,7 @@ theme = "hugo-icarus-theme"
     author = "Greg Boggs"
     bio = ""
     location = "Earth"
-    site_description = "help, tools, and scripts."
+    site_description = "Travian guides, help, tools, and scripts."
     copyright  = "Travian Guide"
     SidebarRecentLimit = 20
 
