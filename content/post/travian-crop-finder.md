@@ -3,7 +3,6 @@ title = "Travian Crop Finder"
 date = "2015-12-10"
 categories = ["Tools"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 I think you guys know what to do from here. A cropper, or high crop village is a must have for any successful Travian Empire. A 9 crop village gives you the ability to build a semi-large raiding force. But, the 15 crop village is ideal for a massive army. The top players will all aquire 15 crop villages within their first 4 villages. So, it may be difficult to find one at first. But, don't give up. It's possible to conquer these later on if you missed your chance.
 

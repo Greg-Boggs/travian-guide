@@ -3,7 +3,6 @@ title = "Travian Multihunter"
 date = "2015-12-02"
 categories = ["Scripts"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 So how does Travian multihunter work? The first thing a person learns when they contact Travian multihunter is that its EXTREMELY difficult for Travain multihunter to help you. And, that a smart person always contacts Multihunter2 as multihunter1 is always too busy. A MH needs an exact link to the game screen in question before they can see other people’s accounts. Simply giving them the account name isn’t enough. What this means for cheaters, is even people who blab about scripting and password sharing usually get away with it because MH simply doesn’t have good automated tools for detecting messages with people’s passwords in them. Simple fix: Check for the users password from the user’s table of the database before every IGM is sent. If any person on any Travian server EVER sends an IGM with their password in it, the game can ban them automatically no human interaction needed. If your going to password share, do it on Instant messenger. The fact that Travian allows you to share your password via IGM is a security failure.
 

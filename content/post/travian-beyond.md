@@ -3,7 +3,6 @@ title = "Travian Beyond"
 date = "2015-12-07"
 categories = ["Scripts"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 
 Travian Beyond is a [Greasemonkey script](http://userscripts-mirror.org/scripts/show/15943) that improves the interface of the game. It has more than 

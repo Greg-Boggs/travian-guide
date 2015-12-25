@@ -3,7 +3,6 @@ title = "Travian Tools"
 date = "2015-12-23"
 categories = ["Tools"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 
 Travian web-based tool sites, offer many simple tools to make playing Travian easier.

@@ -3,7 +3,6 @@ title = "Village Placement Tricks"
 date = "2015-12-01"
 categories = ["Tricks"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 So, you’re an active raider 10 days into the game and ready to found your second village. But, where to put it? This guide will cover the criteria for village placement.This guide is intended for new players who haven’t much experience with founding villages, but may also be useful to experienced players who haven’t put much thought into where they place villages.
 

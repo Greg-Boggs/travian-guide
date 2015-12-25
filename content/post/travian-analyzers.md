@@ -3,7 +3,6 @@ title = "Travian Analyzers"
 date = "2015-12-16"
 categories = ["Tools"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 Travian analyzers are used to track population growth, conquers, rank movements, and much more.
 

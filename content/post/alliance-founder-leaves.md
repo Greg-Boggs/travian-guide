@@ -3,7 +3,6 @@ title = "Alliance Founder Leaves"
 date = "2015-12-05"
 categories = ["Guides"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 
 So, you started a Travian alliance and you want to quit? So, you need to know what happens when the alliance founder leaves the alliance. Maybe your the co-leader, and you want to bump off the alliance founder. Maybe you just want to quit the alliance and move to the World Wonder meta-alliance.

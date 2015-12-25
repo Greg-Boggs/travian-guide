@@ -3,7 +3,6 @@ title = "About"
 date = "2015-10-02T21:49:20+02:00"
 categories = ["Guides"]
 menu = "main"
-banner = "banners/placeholder.png"
 +++
 
 I started this after playing several Travian rounds because I found myself collecting Travian related resources and materials on my desktop. As I spent far too much time trying to teach others how to play well, I decided it was time to share some of the resources. Every time my allies fell behind, I would spend 20 minutes rounding up as many howtos and tips for Travian as I could find. As a diplomat this activity has become a full time job. Never mind what happens to your time when you become the leader of a multi-wing alliance.

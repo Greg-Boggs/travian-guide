@@ -3,7 +3,6 @@ title = "How to Destroy a World Wonder"
 date = "2015-12-04"
 categories = ["Guides"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 “I have a big alliance I will attack them until they are all dead. Then I will attack them more!”
 

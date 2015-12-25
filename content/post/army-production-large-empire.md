@@ -3,7 +3,6 @@ title = "Army Production in a Large Empire"
 date = "2015-12-19"
 categories = ["Guides"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 The goal of this Travian tips guide is to teach you intermediate players how to build massive armies often referred to as “hammers”. After the beginning phase of the game is over building huge armies is your primary goal. Your resource production will soon greatly out pace your need for resources., and I hope this article will give you some Travian Tips to accomplish that. However, there are still limiting factors on growth and army size that every large player must deal with. The first limitation most players face is that offense is very slow to travel over long distances. And, the attackers troops must all be produced from one village, while the defenders armies combine from many villages. However, it is very easy to use villages as storage for your troops. Because of the nature of offense in Travian combined with the power and expense of blacksmiths and armories, it is the most efficient strategy to produce army in only a handful of specialized villages.
 

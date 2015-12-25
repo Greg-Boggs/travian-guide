@@ -3,7 +3,6 @@ title = "Travian Gual Guide"
 date = "2015-12-20"
 categories = ["Guides"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 
 So, you read my [Travian Roman guide](travian-romadn-guide). You take full advantage of the club swingers fast movement, cheap cost, and quick production time to crush everything around you. However, that was last round, this round you got jealous over fast calvary, and lightning quick defenders, and chose to start as Gaul. Now how the heck do you survive against that Teuton punk next to you? If you were Teuton, you’d have his club swingers beat 3 to 1… but your stuck with Gaul so now what?

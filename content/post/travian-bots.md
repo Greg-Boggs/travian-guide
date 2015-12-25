@@ -3,7 +3,6 @@ title = "Travian Bots"
 date = "2015-12-03"
 categories = ["Scripts"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 There are 3 popular Travian bots. Each bot will fully automate your account. Bots are prohibited by Travian [rules](http://www.travian.us/index.php#spielregeln):
 

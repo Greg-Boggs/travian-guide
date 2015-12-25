@@ -3,7 +3,6 @@ title = "Travian Maps"
 date = "2015-12-14"
 categories = ["Tools"]
 menu = ""
-banner = "banners/placeholder.png"
 +++
 
 There are many maps of Travian, and I will not attempt to make a comprehensive list of mapping sites. Instead I will simply give you links to a couple of my favorite map tools. Most are a bit hard to use at first, as they are often case sensitive for no reason. But once you get the hang of them, they are a great when organizing alliance wings. or when deciding where to found new villages.
