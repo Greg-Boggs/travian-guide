@@ -20,7 +20,7 @@ theme = "hugo-icarus-theme"
     bio = ""
     location = "Earth"
     site_description = "Travian guides, help, tools, and scripts."
-    copyright  = "Travian Guide"
+    copyright  = 'Travian Guide - <a href="https://www.gamesolver.info">Game Solver</a>'
     SidebarRecentLimit = 20
 
     # Format dates with Go's time formating
