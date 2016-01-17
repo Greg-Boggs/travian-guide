@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scripts on Travian Guide</title>
+    <link>https://www.travianguide.com/categories/scripts/</link>
+    <description>Recent content in Scripts on Travian Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.travianguide.com/categories/scripts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Travian Beyond</title>
+      <link>https://www.travianguide.com/travian-beyond</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.travianguide.com/travian-beyond</guid>
+      <description>&lt;p&gt;Travian Beyond is a &lt;a href=&#34;http://userscripts-mirror.org/scripts/show/15943&#34;&gt;Greasemonkey script&lt;/a&gt; that improves the interface of the game. It has more than
+&lt;strong&gt;1 million&lt;/strong&gt; installs. The script does not send any commands to the server, and does not cheat for you. All the script does is fix several very annoying bugs and short comings in the user interface. For example, 99% of the time you attack, you want to raid. So, raid should be the default option. However, Travian’s inactive programmers have left “reinforce” as the default option. This flaw, forces an active player to create hundreds of extra clicks every single day. Travian beyond fixes this by setting the default option to raid rather than reinforce. Use Travian Beyond to conduct one farm run, and you’ll never understand why the programmers of Travian don’t fix this interface bug.&lt;/p&gt;
+
+&lt;p&gt;Travian Beyond also has several other key features. It gives you access to the “note pad” from the main overview screen, as well as showing you graphically what level all your buildings and resource fields are without forcing you to click or hover on them. Beyond also has many, links built into it that make the game more fun. Have you ever wondered why the combat simulator is so hard to get to? Or why you have to make so many clicks to get to your alliance overview? How about trading, raiding, or the rally point… all of these things are 1 click away from the overview screen with Travian beyond. While multihunter will tell you creating a webpage of links is cheating.&lt;/p&gt;
+
+&lt;p&gt;It also includes a battle analyzer, however it is not as powerful as the battle analyzer made by travilog. So you’ll want to use both scripts when playing Travian. The newest version is most likely not detactable by MH because the images are now all grabbed from a lycos server, but the old version did get many people in trouble. To my knowledge no one was banned for it, but that could change in the future. Travian beyond is used by almost all of the game’s top players, and no world wonder holder would ever leave home without it, simply because it makes transfering resources take fewer clicks.&lt;/p&gt;
+
+&lt;p&gt;Travian Beyond does not farm for you, and it does not build for you, so we don’t think its cheating. Its simply using an unmodified firefox to access the game. The script does not send anything to the game, nor automate any actions. It does not tax the server in anyway. In fact its main purpose was to repair Interface problems that the Travian programmers are too lazy to fix. In most player’s opinion Travian beyond should be built into the game.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“§5 Use of externals&lt;/p&gt;
+
+&lt;p&gt;The use of scripts or bots which automate actions (such as building upgrades, building troops, sending troops, trading, developing researches, attacking alerts or crop finders) or modify the game interface (for example, grease monkey scripts) are against the rules. The game must be played with an unmodified internet browser. All scripts which excessively tax the server are also forbidden.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Everything Travian Beyond does is local to your computer, and any software you run or write on your own computer is your business, not triers. No one can dictate which software you install or run on your machine, only wither or not you use a bot to interact with their server. So long as you do nothing to harm the game, you’ve done nothing wrong. Further reading below. That being said past users of the script have been banned so use it at your own risk. It is considered cheating.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download &lt;a href=&#34;http://userscripts-mirror.org/scripts/show/15943&#34;&gt;Travian Beyond&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travian Bots</title>
+      <link>https://www.travianguide.com/travian-bots</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.travianguide.com/travian-bots</guid>
+      <description>&lt;p&gt;There are 3 popular Travian bots. Each bot will fully automate your account. Bots are prohibited by Travian &lt;a href=&#34;http://www.travian.us/index.php#spielregeln&#34;&gt;rules&lt;/a&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;§1.7 The use of scripts or bots which automate actions or modify the game interface are against the rules. The game must be played with an unmodified internet browser.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Using these bots will likely get your accounts banned from the server. Unlike &lt;a href=&#34;travian-beyond&#34;&gt;Travian Beyond&lt;/a&gt;, Travian Bots are detectable.&lt;/p&gt;
+
+&lt;p&gt;The top three bots for Travian are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://travibot.com/en/&#34;&gt;Travibot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.traviantactics.com/download.php&#34;&gt;Travian Tactics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.travianbot.com/&#34;&gt;TravianBot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thousands of players are using these tools to win top positions. But, using these risk getting your account deleted.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travian Multihunter</title>
+      <link>https://www.travianguide.com/travian-multihunter</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.travianguide.com/travian-multihunter</guid>
+      <description>&lt;p&gt;So how does Travian multihunter work? The first thing a person learns when they contact Travian multihunter is that its EXTREMELY difficult for Travain multihunter to help you. And, that a smart person always contacts Multihunter2 as multihunter1 is always too busy. A MH needs an exact link to the game screen in question before they can see other people’s accounts. Simply giving them the account name isn’t enough. What this means for cheaters, is even people who blab about scripting and password sharing usually get away with it because MH simply doesn’t have good automated tools for detecting messages with people’s passwords in them. Simple fix: Check for the users password from the user’s table of the database before every IGM is sent. If any person on any Travian server EVER sends an IGM with their password in it, the game can ban them automatically no human interaction needed. If your going to password share, do it on Instant messenger. The fact that Travian allows you to share your password via IGM is a security failure.&lt;/p&gt;
+
+&lt;p&gt;Also the game automatically deletes all the evidence of every game event every week. So someone cheats for the first couple of weeks and then stops, the evidence will be cleaned by the game in a very short time frame. This also bites you in the ass when someone sends you threatening messages. If you don’t report them to MH before the message deletes, Travian multihunter WILL NOT HELP YOU.&lt;/p&gt;
+
+&lt;p&gt;The tech side of catching cheaters is fairly straight forward. Any web game has two main methods of cheat detection. Internet Protocol (IP) address, and cookie/session key. Every machine on the Internet has an IP address, when you play two accounts from the same network, like from a college dorm, your IP will match another user. Travian has a feature called pc-sharing that allows people who share the same IP to play travian. Basically, anyone with a matching IP who isn’t on the pc sharing list is on the short list for a ban. Those who cheat from college dorm rooms and other public networks often get away with it for longer. Once MH finds a matching IP they look at account activity. If the two accounts work closely together, are never online at the same second, and  seem to communicate without IGM, they are highly likely to be banned.&lt;/p&gt;
+
+&lt;p&gt;Travian session cookies is the second method travian multihunter use to catch cheaters. Your browser records a session for you each time you log in. If you log in to someone elses account with a cookie from another account, you are automatically flagged as a cheat.  So, clear your cookies right? Wrong! A suspect cheater who always has no cookie or state information on every connection will often be scrutinized extra hard as a cheat. The most affective way to run 3 accounts is to use 1 browser for each account. That way you have nice clean sessions for each account you play. You just have to make sure you don’t forget which browser is which.&lt;/p&gt;
+
+&lt;p&gt;Hiding your IP address is simple its called a public proxy, google will give you several website that will display hundreds of proxies. However, a proxy is slow, and seriously makes travian less fun, as you can’t split waves from a proxy server. To stop this Travian multihunter can simply blacklist all public proxies.&lt;/p&gt;
+
+&lt;p&gt;Are you being farmed by a cheater with the auto farm script? Stay tuned for a post on autofarm. How it works, why people don’t get caught, and how to get someone caught!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
